@@ -32,8 +32,8 @@ W system.secondary_stack%s  s-secsta.adb	s-secsta.ali
 D ada.ads		20210520051132 76789da1 ada%s
 D a-except.ads		20210520051128 946f3014 ada.exceptions%s
 D a-unccon.ads		20210520051130 0e9b276f ada.unchecked_conversion%s
-D b__arrman.ads		20221120132110 326976bb ada_main%s
-D b__arrman.adb		20221120132110 9577befb ada_main%b
+D b__arrman.ads		20221120132354 326976bb ada_main%s
+D b__arrman.adb		20221120132354 9577befb ada_main%b
 D system.ads		20210520051136 2ffa5114 system%s
 D s-parame.ads		20210520051134 4752c4cb system.parameters%s
 D s-restri.ads		20210520051134 1b9d0672 system.restrictions%s

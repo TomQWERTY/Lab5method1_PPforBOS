@@ -67,9 +67,6 @@ procedure arrman is
       end start;
       sum := part_sum (left, right);
       task_manager.set_res(sum);
-      --accept finish (sum1 : out Integer) do
-      --   sum1 := sum;
-      --end finish;
    end my_task;
 
    task1 : array(1..thread_count) of my_task;
